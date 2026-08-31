@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "primalrevival:block/araucaria_log_face",
+    "side": "primalrevival:block/araucaria_wood",
+    "particle": "primalrevival:block/araucaria_wood"
+  }
+}

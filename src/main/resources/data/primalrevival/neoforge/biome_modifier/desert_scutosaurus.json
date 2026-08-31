@@ -1,0 +1,5 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#primalrevival:is_desert",
+  "spawners": { "type": "primalrevival:scutosaurus", "weight": 6, "minCount": 1, "maxCount": 2 }
+}

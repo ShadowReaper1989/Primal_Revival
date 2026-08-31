@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "primalrevival:block/gypsum_rock",
+    "particle": "primalrevival:block/gypsum_rock"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "primalrevival:block/gypsum_ore",
+    "particle": "primalrevival:block/gypsum_ore"
+  }
+}

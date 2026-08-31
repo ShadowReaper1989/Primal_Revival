@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "primalrevival:block/volcanic_tuff",
+    "particle": "primalrevival:block/volcanic_tuff"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "primalrevival:block/araucaria_log" },
+    "axis=z": { "model": "primalrevival:block/araucaria_log", "x": 90 },
+    "axis=x": { "model": "primalrevival:block/araucaria_log", "x": 90, "y": 90 }
+  }
+}

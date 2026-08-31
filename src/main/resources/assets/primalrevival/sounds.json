@@ -1,0 +1,31 @@
+{
+  "rex.idle": {
+    "subtitle": "subtitle.primalrevival.rex.idle",
+    "sounds": [
+      "primalrevival:rex/rexidle1",
+      "primalrevival:rex/rexidle2",
+      "primalrevival:rex/rexidle3"
+    ]
+  },
+  "rex.hurt": {
+    "subtitle": "subtitle.primalrevival.rex.hurt",
+    "sounds": [
+      "primalrevival:rex/rexcry",
+      "primalrevival:rex/rexcry2"
+    ]
+  },
+  "rex.roar": {
+    "subtitle": "subtitle.primalrevival.rex.roar",
+    "sounds": [
+      "primalrevival:rex/rexroar1",
+      "primalrevival:rex/rexroar2",
+      "primalrevival:rex/rexroar3"
+    ]
+  },
+  "rex.death": {
+    "subtitle": "subtitle.primalrevival.rex.death",
+    "sounds": [
+      "primalrevival:rex/rexdeath"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "primalrevival:block/araucaria_sapling",
+    "particle": "primalrevival:block/araucaria_sapling"
+  }
+}

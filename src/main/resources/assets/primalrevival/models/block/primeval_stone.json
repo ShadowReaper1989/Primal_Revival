@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "primalrevival:block/primeval_stone",
+    "particle": "primalrevival:block/primeval_stone"
+  }
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "primalrevival:item/mycenaean_shield"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [69.92, -58.2, -23.43],
+			"translation": [1.75, 0.25, 0],
+			"scale": [1.12305, 1, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [69.92, -58.2, -23.43],
+			"translation": [1.75, 0.25, 0],
+			"scale": [1.12305, 1, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0.61, -17, 2.08]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0.61, -17, 2.08]
+		},
+		"ground": {
+			"scale": [0.55469, 0.57422, 1]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}

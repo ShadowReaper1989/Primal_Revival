@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "primalrevival:rhodium", "weight": 3 },
+        { "type": "minecraft:item", "name": "primalrevival:treasure", "weight": 3 },
+        { "type": "minecraft:item", "name": "primalrevival:insect_fossil", "weight": 1 },
+        { "type": "minecraft:item", "name": "primalrevival:rex_fossil", "weight": 1 },
+        { "type": "minecraft:item", "name": "primalrevival:parareptile_fossil", "weight": 1 },
+        { "type": "minecraft:item", "name": "primalrevival:platinum", "weight": 3 },
+        { "type": "minecraft:item", "name": "primalrevival:mycenaean_shield", "weight": 3 }
+      ]
+    }
+  ]
+}

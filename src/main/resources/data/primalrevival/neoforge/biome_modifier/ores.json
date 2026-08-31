@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "primalrevival:gypsum_ore_placed",
+    "primalrevival:ruby_ore_placed",
+    "primalrevival:iridium_ore_placed",
+    "primalrevival:gypsum_rock_placed",
+    "primalrevival:volcanic_tuff_placed",
+    "primalrevival:primeval_stone_placed"
+  ],
+  "step": "underground_ores"
+}
